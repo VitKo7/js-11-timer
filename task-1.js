@@ -3,7 +3,7 @@
 //   targetDate: new Date('Jul 17, 2019'),
 // });
 
-const targetDate = new Date('Feb 13, 2022');
+const targetDate = new Date('Feb 24, 2022');
 
 const pad = num => {
   if (num < 10) return '0' + num;
